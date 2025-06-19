@@ -7,6 +7,10 @@
     
 }
 
+h1{ 
+    text-align: right;
+    bottom: 0;
+}
 #logo{
 	padding: 15px;
 }
